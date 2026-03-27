@@ -1,0 +1,5 @@
+{
+  "name": "AI CP Mentor (Uzbek)",
+  "description": "A personal AI Mentor platform designed for competitive programming students to reach 1400+ Codeforces rating. Includes a Telegram-style interface with strict pedagogical rules and automated daily problem sets.",
+  "requestFramePermissions": []
+}
